@@ -1,0 +1,15 @@
+/Users/kimdohoon/git/study/csharp-modules/MultiThread/MultiThread/bin/Debug/net7.0/MultiThread
+/Users/kimdohoon/git/study/csharp-modules/MultiThread/MultiThread/bin/Debug/net7.0/MultiThread.deps.json
+/Users/kimdohoon/git/study/csharp-modules/MultiThread/MultiThread/bin/Debug/net7.0/MultiThread.runtimeconfig.json
+/Users/kimdohoon/git/study/csharp-modules/MultiThread/MultiThread/bin/Debug/net7.0/MultiThread.dll
+/Users/kimdohoon/git/study/csharp-modules/MultiThread/MultiThread/bin/Debug/net7.0/MultiThread.pdb
+/Users/kimdohoon/git/study/csharp-modules/MultiThread/MultiThread/obj/Debug/net7.0/MultiThread.csproj.AssemblyReference.cache
+/Users/kimdohoon/git/study/csharp-modules/MultiThread/MultiThread/obj/Debug/net7.0/MultiThread.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimdohoon/git/study/csharp-modules/MultiThread/MultiThread/obj/Debug/net7.0/MultiThread.AssemblyInfoInputs.cache
+/Users/kimdohoon/git/study/csharp-modules/MultiThread/MultiThread/obj/Debug/net7.0/MultiThread.AssemblyInfo.cs
+/Users/kimdohoon/git/study/csharp-modules/MultiThread/MultiThread/obj/Debug/net7.0/MultiThread.csproj.CoreCompileInputs.cache
+/Users/kimdohoon/git/study/csharp-modules/MultiThread/MultiThread/obj/Debug/net7.0/MultiThread.dll
+/Users/kimdohoon/git/study/csharp-modules/MultiThread/MultiThread/obj/Debug/net7.0/refint/MultiThread.dll
+/Users/kimdohoon/git/study/csharp-modules/MultiThread/MultiThread/obj/Debug/net7.0/MultiThread.pdb
+/Users/kimdohoon/git/study/csharp-modules/MultiThread/MultiThread/obj/Debug/net7.0/MultiThread.genruntimeconfig.cache
+/Users/kimdohoon/git/study/csharp-modules/MultiThread/MultiThread/obj/Debug/net7.0/ref/MultiThread.dll

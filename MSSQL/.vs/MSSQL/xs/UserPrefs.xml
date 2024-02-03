@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DA04E5E9-38E5-4487-B429-368E829D6729}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Kafka-CSharp/demo/SQLConnection/SQLConnection/Program.cs">
+    <Files>
+      <File FileName="../../Kafka-CSharp/demo/SQLConnection/SQLConnection/Program.cs" Line="145" Column="45" />
+      <File FileName="MSSQL/Program.cs" Line="193" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MSSQL" expanded="True">
+            <Node name="MSSQL">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MSSQL PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

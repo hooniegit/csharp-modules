@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{41342A64-FD51-481D-9612-3611647C1F11}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../MSSQL/MSSQL/Program.cs">
+    <Files>
+      <File FileName="MultiThread/Program.cs" Line="13" Column="43" />
+      <File FileName="../MSSQL/MSSQL/Program.cs" Line="234" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiThread" expanded="True">
+            <Node name="MultiThread">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MultiThread PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
